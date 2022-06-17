@@ -6,10 +6,6 @@
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AlexsandroVcT)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroVcT&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 HTML5
 CSS3
