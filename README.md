@@ -12,6 +12,7 @@ CSS3
 JavaScript
 React
 GitHub
+GitBash
 
 
 ## Ùltimos videos:
