@@ -7,12 +7,12 @@
 
 
 ## Tecnologias que eu uso no meu dia
-HTML5
-CSS3
-JavaScript
-React
-GitHub
-GitBash
+HTML5,
+CSS3,
+JavaScript,
+React,
+GitHub,
+GitBash,
 
 
 ## Ùltimos videos:
