@@ -13,6 +13,8 @@ JavaScript,
 React,
 GitHub,
 GitBash,
+MongoDB,
+SQL
 
 
 ## Ùltimos videos:
