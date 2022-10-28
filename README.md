@@ -11,10 +11,12 @@ HTML5,
 CSS3,
 JavaScript,
 React,
+NodeJS,
 GitHub,
 GitBash,
 MongoDB,
-SQL
+MySQL,
+PHP
 
 
 ## Ùltimos videos:
