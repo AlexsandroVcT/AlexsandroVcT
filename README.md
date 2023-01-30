@@ -16,7 +16,8 @@ GitHub,
 GitBash,
 MongoDB,
 MySQL,
-PHP
+PHP,
+React Native
 
 
 ## Ùltimos videos:
