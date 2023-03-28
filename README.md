@@ -17,7 +17,7 @@
 
 <div align="center">  
   <div>
-<a href="https://www.instagram.com/dev_alex.vct/ target="_blank"" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/dev_alex.vct/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/alexsandro-vicente/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
     <a href="https://api.whatsapp.com/send?phone=5582981949926&text=%20Oi Alexsandro,%20%20Tudo bem? vim através do seu github" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
     
