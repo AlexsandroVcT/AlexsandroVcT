@@ -12,5 +12,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexsandroVcT&bg_color=505050&color=ffdd00&line=ffffff&point=3689e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexsandroVcT&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexsandroVcT&theme=dark&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 </p>
