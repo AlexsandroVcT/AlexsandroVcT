@@ -23,3 +23,10 @@
     
 </div>
   </div>
+    
+    ### Main skills:
+ ![HTML5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
