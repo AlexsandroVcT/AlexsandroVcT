@@ -6,7 +6,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexsandroVcT&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=808080&text_color=808080&bg_color=0d1117" alt="Alexsandro Vicente github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroVcT&layout=compact&hide_border=true&title_color=FFD700&text_color=808080&bg_color=0d1117" />
-</div
+</div>
   
   
   
